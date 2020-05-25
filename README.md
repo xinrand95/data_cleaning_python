@@ -1,2 +1,2 @@
 # data_cleaning_python
-Using Python to clean up character columns in Excel
+Using Pandas to clean up character columns from a Excel file
